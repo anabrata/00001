@@ -1,0 +1,9 @@
+title: Link Hub
+theme: minima
+plugins:
+  - jekyll-redirect-from
+defaults:
+  - scope:
+      path: "go"
+    values:
+      layout: null
